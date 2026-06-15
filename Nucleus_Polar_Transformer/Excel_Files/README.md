@@ -8,4 +8,4 @@ Data from the plugin is saved as a txt file, but can be opened in Excel without 
 
 <img width="1592" height="121" alt="VLOOKUP_Note" src="https://github.com/user-attachments/assets/0791b280-ec94-4dbc-b146-837eacc21eb9" />
 
-The Macro_Transpose_Data should be run once data validation is complete to copy all values into a second sheet for further analysis
+The Macro_Transpose_Data should be run once data validation is complete to copy all values into a second sheet. The output from this can be copied to the Cumulative Fluctuation Template file to automatically calculate the total amount of nuclar shape changes happening per cell.
